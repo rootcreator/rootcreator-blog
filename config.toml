@@ -1,6 +1,6 @@
-baseURL = "https://blog.pluggedspace.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Pluggedspace Blog"
+title = "RootCreator Blog"
 theme = "PaperMod"
 googleAnalytics = "G-HNJ4XDXZ6C"
 
@@ -15,19 +15,19 @@ googleAnalytics = "G-HNJ4XDXZ6C"
 
   [[params.socialIcons]]
     name = "Twitter"
-    url = "https://twitter.com/pluggedspace_io"
+    url = "https://twitter.com/rootcreator0"
 
   [[params.socialIcons]]
     name = "GitHub"
-    url = "https://github.com/pluggedspace"
+    url = "https://github.com/rootcreator"
 
   [[params.socialIcons]]
     name = "Instagram"
-    url = "https://instagram.com/pluggedspace"
+    url = "https://instagram.com/rootcreator"
 
   [[params.socialIcons]]
     name = "LinkedIn"
-    url = "https://linkedin.com/company/pluggedspace"
+    url = "https://linkedin.com/in/rootcreator"
 
   [params.utterances]
     repo = "pluggedspace/Pluggedspace-blog"  # Your GitHub repo

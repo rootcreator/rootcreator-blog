@@ -1,6 +1,6 @@
-baseURL = "https://blog.pluggedspace.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Pluggedspace Blog"
+title = "RootCreator Blog"
 theme = "PaperMod"
 googleAnalytics = "G-HNJ4XDXZ6C"
 
