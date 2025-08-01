@@ -40,15 +40,15 @@ googleAnalytics = "G-HNJ4XDXZ6C"
   home = ["HTML", "RSS", "JSON"] # JSON is needed for search
 
 [[menu.main]]
-  identifier = "home"
+  identifier = "Tech Portfolio"
   name = "Home"
-  url = "https://pluggedspace.org"
+  url = "https://rootcreator.github.io/Portfolio-of-the-creator/"
   weight = 1
 
 [[menu.main]]
-  identifier = "about"
+  identifier = "Work"
   name = "About"
-  url = "https://pluggedspace.org/about"
+  url = "https://pluggedspace.org"
   weight = 2
 
 [[menu.main]]
@@ -57,20 +57,5 @@ googleAnalytics = "G-HNJ4XDXZ6C"
   url = "/blog/"
   weight = 3
 
- [[menu.main]]
-  identifier = "services"
-  name = "Services"
-  url = "https://pluggedspace.org/services"
-  weight = 4
 
-[[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "https://pluggedspace.org/projects"
-  weight = 5
 
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "https://pluggedspace.org/contact/"
-  weight = 6
